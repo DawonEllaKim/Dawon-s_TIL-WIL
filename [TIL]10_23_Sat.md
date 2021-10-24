@@ -1,6 +1,4 @@
-![](https://images.velog.io/images/dawonella0411/post/420a124a-9d86-4649-9163-bc31d457a69f/WIL.png)
-
----
+![](<https://images.velog.io/images/dawonella0411/post/cc741c45-ad53-4ca5-a4c7-e352912a85b9/%EC%A0%9C%EB%AA%A9%EC%9D%84%20%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001%20(4).png>)
 
 # 🌿 [TIL] 21-10-23 Sat.
 
