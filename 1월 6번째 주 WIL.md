@@ -7,3 +7,9 @@
 - [x] Computer Science | [5. 브라우저 렌더링 과정](https://www.notion.so/5-62701a19b62d4094b0f33d8050fb6485)
 
 ---
+
+# ✏️ 1.31 **Mon.**
+
+- [x] Algorithm | [3진법 뒤집기](https://www.notion.so/3-e2e193d940a9430d8259b48be4ebfe84)
+
+---
