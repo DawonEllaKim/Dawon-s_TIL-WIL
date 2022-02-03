@@ -10,3 +10,10 @@
 - [x]  Redux | [2. Redux 동작 원리](https://www.notion.so/2-Redux-2dfca72811544c4b96c9943064d3cbe4)
 
 ---
+
+# ✏️ 2.3 **Thur.**
+
+- [x]  JavaScript | [7. 스코프](https://www.notion.so/7-27f55a88fc374de39114e0912adb9cb2)
+- [x]  React | json_server 사용해서 데이터값 GET/POST 연습
+
+---
